@@ -6,7 +6,7 @@ namespace Lab_5_Assignment
     {
         public override void getBalance()
         {
-            Console.WriteLine("Availiable balance is: $100");
+            Console.WriteLine("Availiable balance in BankA: $100");
         }
     }
 }
